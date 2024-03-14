@@ -1,4 +1,4 @@
-const username = 'YPUR_SFDC_USERNAME';
+const username = 'YOUR_SFDC_USERNAME';
 const password = 'YOUR_SFDC_PWD'
 const security_token = 'YOUR_SFDC_SEC_TOKEN'
 
